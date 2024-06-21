@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@config-plugins/react-native-ble-plx": "^7.0.0",
+    "buffer": "^6.0.3",
     "expo": "~51.0.14",
     "expo-dev-client": "~4.0.18",
     "expo-status-bar": "~1.12.1",
